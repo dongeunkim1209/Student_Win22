@@ -1,6 +1,7 @@
 package student_win22;
-/**
- * @author Ronak
+/*
+  Date: Jan 25th 2022
+  Author: Dong Eun Kim
  */
 public class Student
 {

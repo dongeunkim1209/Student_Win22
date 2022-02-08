@@ -1,7 +1,5 @@
 package student_win22;
-/**
- * @author Ronak
- */
+
 public class StudentList
 {
    public static void main (String[] args)

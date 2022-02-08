@@ -1,9 +1,6 @@
 package student_win22;
 
-/**
- *
- * @author Ronak
- */
+
 public class Student_Win22
 {
    /**

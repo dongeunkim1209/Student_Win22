@@ -2,6 +2,7 @@ package student_win22;
 /*
  Date: Jan 25th 2022
  Author: Dong Eun Kim
+ Comment: This is just a comment
  */
 public class Student
 {
